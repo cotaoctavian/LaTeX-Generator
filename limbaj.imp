@@ -1,0 +1,34 @@
+documentclass: "test"
+documentclass: "testaare"
+usepackage: "amsmath, amssymb"
+usepackage: "bbbb"
+begin: "document"
+title: "Titlu"
+author: "test"
+date: "azi"
+maketitle
+"test , test"
+small: "treaba ta"
+Large: "treaba ta"
+LARGE: "treaba ta"
+huge: "treaba ta"
+tiny: "treaba ta"
+large: "treaba ta"
+newpage
+enter
+sin:"x"
+
+begin: "lista1"
+item: "nu"
+item: "trei"
+end: "lista1"
+
+textsubscript: "ccc"
+
+begin: "matrice"
+1&0&0 enter
+vdots: ddots: cdots: enter
+hdots: ddots: vdots: next
+end: "matrice"
+
+end: "document"
